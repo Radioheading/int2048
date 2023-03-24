@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/int2048_2022_main.dir/int2048-2022-main/data/Integer_1/1.cpp.o CMakeFiles/int2048_2022_main.dir/int2048-2022-main/int2048.cpp.o  -o int2048_2022_main 

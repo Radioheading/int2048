@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../int2048.h
+complex
+-
+cstdio
+-
+cstring
+-
+iostream
+-
+vector
+-
+
+/mnt/c/Users/18221/CLionProjects/int2048_real/int2048-2022-main/data/Integer 1/1.cpp
+int2048.h
+/mnt/c/Users/18221/CLionProjects/int2048_real/int2048-2022-main/data/Integer 1/int2048.h
+
